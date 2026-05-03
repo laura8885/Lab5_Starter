@@ -8,5 +8,6 @@ Zihan Zhang & Yuting Duan
 2. Yes. Because this feature is a simple and isolated piece of logic that checks whether the input length exceeds 80 characters.
 
 ##Github Page
- - https://your-username.github.io/repo-name/expose.html
- - https://your-username.github.io/repo-name/explore.html
+ - https://laura8885.github.io/Lab5_Starter/expose.html
+ - https://laura8885.github.io/Lab5_Starter/explore.html
+
